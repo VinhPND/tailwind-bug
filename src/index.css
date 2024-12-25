@@ -1,0 +1,6 @@
+/* src/index.css */
+
+/* Import các file của Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
